@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">לפני ‎%d ימים</item>
+        <item quantity="zero">לפני ‎%d ימים</item>
+        <item quantity="one">לפני יום ‎%d‏</item>
+        <item quantity="two">לפני ‎%d ימים</item>
+        <item quantity="few">לפני ‎%d ימים</item>
+        <item quantity="many">לפני ‎%d ימים</item>
+    </plurals>
+</resources>

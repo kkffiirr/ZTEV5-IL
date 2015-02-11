@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="downloading_click_failed_menu">
+        <item>@string/delete</item>
+        <item>נסה שנית להוריד</item>
+    </string-array>
+    <string-array name="uploadding_click_failed_menu">
+        <item>@string/delete</item>
+        <item>נסה שנית להעלות</item>
+    </string-array>
+    <string-array name="pcdir_file_long_click">
+        <item>@string/menu_open</item>
+        <item>@string/download</item>
+        <item>העבר</item>
+        <item>@string/menu_rename</item>
+        <item>@string/delete</item>
+        <item>@string/favorite</item>
+    </string-array>
+    <string-array name="open_file_no_type">
+        <item>טקסט</item>
+        <item>שמע</item>
+        <item>וידיאו</item>
+        <item>תמונה</item>
+        <item>אחר</item>
+    </string-array>
+    <string-array name="setting_clear_cache">
+        <item>תמונות</item>
+        <item>קבצים ארעים</item>
+    </string-array>
+    <string-array name="localfile_long_click">
+        <item>פתח</item>
+        <item>העלה</item>
+        <item>העבר</item>
+        <item>שנה שם</item>
+        <item>מחק</item>
+    </string-array>
+    <string-array name="localfile_arraytype_menu">
+        <item>סוג</item>
+        <item>שם</item>
+        <item>גודל</item>
+        <item>תאריך</item>
+    </string-array>
+    <string-array name="upload_lookat">
+        <item>הצג</item>
+        <item>פתח תיקייה</item>
+        <item>@string/menu_rename</item>
+        <item>@string/delete</item>
+    </string-array>
+</resources>

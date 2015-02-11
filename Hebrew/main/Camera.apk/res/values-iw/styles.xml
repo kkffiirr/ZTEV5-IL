@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SettingTitle">
+        <item name="android:layout_gravity">right|center</item>
+        <item name="android:layout_marginRight">10.0dip</item>
+    </style>
+</resources>
